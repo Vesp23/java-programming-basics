@@ -20,4 +20,6 @@ class SquareEquation {
         return (-b + Math.sqrt(D)) / (2 * a);
     }
 
+
+
 }
